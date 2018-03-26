@@ -5,3 +5,4 @@
  *  For more information about PDi EPD and EXT2 board, please visit 
  *  http://www.pervasivedisplays.com/
  *  http://www.pervasivedisplays.com/kits/ext2_kit
+ *  http://www.pervasivedisplays.com/contact/technical-support
