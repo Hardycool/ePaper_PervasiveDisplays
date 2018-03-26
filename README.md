@@ -2,7 +2,7 @@
  *  And it sould be able to run on Arduino IDE supported Board.
  *  Like Arduino Due or Arduino Uno(Need a level shifter 5V -> 3V for EXT2 board)
  *  https://github.com/arduino/arduino/wiki/unofficial-list-of-3rd-party-boards-support-urls
- *
+ 
  *  For more information about PDi EPD and EXT2 board, please visit 
  *  http://www.pervasivedisplays.com/
  *  http://www.pervasivedisplays.com/kits/ext2_kit
