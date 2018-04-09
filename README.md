@@ -5,7 +5,7 @@
  *  https://github.com/arduino/arduino/wiki/unofficial-list-of-3rd-party-boards-support-urls
 
  #  Hardware Connection
-  *  ![image](https://github.com/Hardy-PDi/ePaper_PervasiveDisplays/blob/master/arduino_w_EXT2.JPG)
+ ![image](https://github.com/Hardy-PDi/ePaper_PervasiveDisplays/blob/master/arduino_w_EXT2.JPG)
   
  ```bash
  #define SCL_PIN 13   //EXT2 BOARD J5 pin 7
