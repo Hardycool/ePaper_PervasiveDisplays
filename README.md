@@ -14,9 +14,9 @@
  #define BUSY_PIN 8   //EXT2 BOARD J5 pin 8
  #define PNLON_PIN 7  //EXT2 BOARD J5 pin 11
  #define CSS_PIN 6    //EXT2 BOARD J5 pin 2 Slave CSB for 12" only
-                     //EXT2 BOARD J5 pin 20 connected to GND
-                     //EXT2 BOARD J5 pin 17 connected to GND for 4 wire SPI
-                     //EXT2 BOARD J5 pin 1 connected to 3V3 
+                      //EXT2 BOARD J5 pin 20 connected to GND
+                      //EXT2 BOARD J5 pin 17 connected to GND for 4 wire SPI
+                      //EXT2 BOARD J5 pin 1 connected to 3V3 
  ```
  *  For more information about PDi EPD and EXT2 board, please visit 
  *  http://www.pervasivedisplays.com/
