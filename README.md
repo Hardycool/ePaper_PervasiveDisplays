@@ -22,7 +22,7 @@
                       //EXT2 BOARD J5 pin 1 connected to 3V3 
  ```
  
- ### EXT2 Board J7 Dip Switch configuration
+ ### EXT2 Board DIP Switch(J7) configuration
  
 | Driver type and EPD size | S1 | S2 | S3 | S4 | S5 | S6 | S7 | S8 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
