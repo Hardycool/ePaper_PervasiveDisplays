@@ -22,4 +22,4 @@
  *  For more information about PDi EPD and EXT2 board, please visit 
  *  [PERVASIVE DISPLAYS, INC. (龍亭新技股份有限公司)](http://www.pervasivedisplays.com/)
  *  [EPD Extension Kit Gen 2 (EXT2)](http://www.pervasivedisplays.com/kits/ext2_kit)
- *  [24/7 Service]http://www.pervasivedisplays.com/contact/technical-support
+ *  [24/7 Service](http://www.pervasivedisplays.com/contact/technical-support)
