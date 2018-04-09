@@ -18,7 +18,8 @@
                       //EXT2 BOARD J5 pin 17 connected to GND for 4 wire SPI
                       //EXT2 BOARD J5 pin 1 connected to 3V3 
  ```
+ #  Support
  *  For more information about PDi EPD and EXT2 board, please visit 
- *  http://www.pervasivedisplays.com/
- *  http://www.pervasivedisplays.com/kits/ext2_kit
+ *  [Pervasivedisplays](http://www.pervasivedisplays.com/)
+ *  [EPD Extension Kit Gen 2 (EXT2)](http://www.pervasivedisplays.com/kits/ext2_kit)
  *  http://www.pervasivedisplays.com/contact/technical-support
