@@ -7,7 +7,7 @@
  #  Hardware Connection
  ![image](https://github.com/Hardy-PDi/ePaper_PervasiveDisplays/blob/master/arduino_w_EXT2.JPG)
   
- ## Arduino Pin assignment for EXT2 Board
+ ### Arduino Pin assignment for EXT2 Board
  ```bash
  #define SCL_PIN 13   //EXT2 BOARD J5 pin 7
  #define SDA_PIN 12   //EXT2 BOARD J5 pin 15
@@ -22,14 +22,14 @@
                       //EXT2 BOARD J5 pin 1 connected to 3V3 
  ```
  
- ## EXT2 Board J7 Dip Switch configuration
+ ### EXT2 Board J7 Dip Switch configuration
  
 | Driver type and EPD size | S1 | S2 | S3 | S4 | S5 | S6 | S7 | S8 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| (eTC) 1.44 2.0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | - |
-| (eTC) 1.9 2.6 2.71 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
+| (eTC) 1.44/ 2.0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | - |
+| (eTC) 1.9/ 2.60/ 2.71 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | (iTC) 2.15 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | - |
-| (iTC) 1.54 2.13 2.66 2.71 2.87 4.2 7.4 12.0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | - |
+| (iTC) 1.54/ 2.13/ 2.66/ 2.71/ 2.87/ 4.2/ 7.4/ 12.0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | - |
 
  #  Support
  *  For more information about PDi EPD and EXT2 board, please visit 
