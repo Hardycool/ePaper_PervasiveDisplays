@@ -16,7 +16,7 @@
  #define RESET_PIN 9  //EXT2 BOARD J5 pin 10
  #define BUSY_PIN 8   //EXT2 BOARD J5 pin 8
  #define PNLON_PIN 7  //EXT2 BOARD J5 pin 11
- #define CSS_PIN 6    //EXT2 BOARD J5 pin 2 Slave CSB for 12" only
+ #define CSS_PIN 6    //EXT2 BOARD J5 pin 2 Slave CSB is only required of 12" operation
                       //EXT2 BOARD J5 pin 20 connected to GND
                       //EXT2 BOARD J5 pin 17 connected to GND for 4 wire SPI
                       //EXT2 BOARD J5 pin 1 connected to 3V3 
