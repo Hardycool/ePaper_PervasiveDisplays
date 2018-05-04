@@ -1,12 +1,12 @@
  ![image](https://github.com/Hardy-PDi/ePaper_PervasiveDisplays/blob/master/iTC_Arduino.jpg)
  
  * The example code is for PDi iTC EPD(1.54"/2.13"/2.66"/2.71"/2.87"/4.2"/7.4"/12") on EXT2 board, it's verified by Arduino M0 Pro.
- *  And it sould be able to run on Arduino IDE supported Board, such as Arduino Due or Arduino Uno(Need a level shifter 5V -> 3V for EXT2 board)
+ * And it sould be able to run on Arduino IDE supported Board, such as Arduino Due or Arduino Uno(Need a level shifter 5V -> 3V for EXT2 board)
  *  https://github.com/arduino/arduino/wiki/unofficial-list-of-3rd-party-boards-support-urls
 
  #  Hardware Connection
  ![image](https://github.com/Hardy-PDi/ePaper_PervasiveDisplays/blob/master/arduino_w_EXT2.JPG)
- *  In case you only have 5V host controller, the lever shifter is required for EXT2 board
+ * In case you only have 5V host controller, the lever shifter is required for EXT2 board
  ![image](https://github.com/Hardy-PDi/ePaper_PervasiveDisplays/blob/master/3_5V level shifter.png)
   
  ### Arduino Pin assignment for EXT2 Board
