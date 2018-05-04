@@ -7,7 +7,7 @@
  #  Hardware Connection
  ![image](https://github.com/Hardy-PDi/ePaper_PervasiveDisplays/blob/master/arduino_w_EXT2.JPG)
  * In case you only have 5V host controller, the lever shifter is required for EXT2 board
- ![image](https://github.com/Hardy-PDi/ePaper_PervasiveDisplays/blob/master/3_5V level shifter.png)
+ ![image](https://github.com/Hardy-PDi/ePaper_PervasiveDisplays/blob/master/3_5V_LevelShifter.png)
   
  ### Arduino Pin assignment for EXT2 Board
  ```bash
