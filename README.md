@@ -5,7 +5,7 @@
  *  https://github.com/arduino/arduino/wiki/unofficial-list-of-3rd-party-boards-support-urls
 
  #  Hardware Connection
- ![image](https://github.com/Hardy-PDi/ePaper_PervasiveDisplays/blob/master/arduino_w_EXT2.JPG)
+ ![image](https://github.com/Hardy-PDi/ePaper_PervasiveDisplays/blob/master/arduino_w_EXT2.jpg)
  * In case of you only have 5V host controller, the lever shifter is required for these I/Os on EXT2 board
  ![image](https://github.com/Hardy-PDi/ePaper_PervasiveDisplays/blob/master/3_5V_LevelShifter.png)
   
