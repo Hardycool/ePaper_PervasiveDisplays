@@ -35,6 +35,6 @@
 
  #  Support
  *  For more information about PDi EPD and EXT2 board, please visit [PERVASIVE DISPLAYS, INC. (龍亭新技股份有限公司)](http://www.pervasivedisplays.com/)
- *  [PDi Product Line up(iTC EPD)](http://www.pervasivedisplays.com/products#iTC)
- *  [EPD Extension Kit Gen 2 (EXT2)](http://www.pervasivedisplays.com/kits/ext2_kit)
- *  [24/7 Service](http://www.pervasivedisplays.com/contact/technical-support)
+ *  [PDi Product Line up(iTC EPD)](https://www.pervasivedisplays.com/products/?_sft_etc_itc=itc)
+ *  [EPD Extension Kit Gen 2 (EXT2)](https://www.pervasivedisplays.com/product/epd-extension-kit-gen-2-ext2/)
+ *  [24/7 Service](https://www.pervasivedisplays.com/technical-support/)
