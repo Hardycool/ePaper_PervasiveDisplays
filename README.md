@@ -31,7 +31,7 @@
 | (eTC) 1.44/ 2.0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | - |
 | (eTC) 1.9/ 2.60/ 2.71 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | (iTC) 2.15 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | - |
-| (iTC) 1.54/ 2.13/ 2.66/ 2.71/ 2.87/ 3.7/ 4.2/ 4.37/ 7.4/ 12.0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | - |
+| (iTC) 1.54/ 2.13/ 2.66/ 2.71/ 2.87/ 3.7/ 4.2/ 4.37/ 5.8/ 7.4/ 9.7/ 12.0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | - |
 
  #  Support
  *  For more information about PDi EPD and EXT2 board, please visit [PERVASIVE DISPLAYS, INC. (龍亭新技股份有限公司)](http://www.pervasivedisplays.com/)
