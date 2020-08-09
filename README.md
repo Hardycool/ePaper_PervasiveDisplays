@@ -21,9 +21,10 @@
 #define BS_PIN 4     // EXT2 Baord J5 pin 17
 #define CSS_PIN 6    //EXT2 BOARD J5 pin 2 Slave CSB only required of 9.7"/12" with one 24pin FPC operation
 //#define CSS_PIN 5     // EXT2 BOARD J5 pin 13 Slave CSB only required of 9.7/12" with 34pin FFC bridge board(2FPC design) operation
-                      //EXT2 BOARD J5 pin 20 connected to GND
-                      //EXT2 BOARD J5 pin 17 connected to GND for 4 wire SPI
-                      //EXT2 BOARD J5 pin 1 connected to 3V3 
+                      //EXT2 BOARD J5 pin 20 connecte to GND
+                      //EXT2 BOARD J5 pin 17 connecte to GND for 4 wire SPI
+                      //EXT2 BOARD J5 pin 12 connecte to GND for stablize/off the discharge circuit
+                      //EXT2 BOARD J5 pin 1 connecte to 3V3 
  ```
  
  ### EXT2 Board DIP Switch(J7) configuration
