@@ -1,4 +1,4 @@
- ![image](https://github.com/Hardy-PDi/ePaper_PervasiveDisplays/blob/master/iTC_Arduino.jpg)
+ ![image](https://github.com/Hardy-PDi/ePaper_PervasiveDisplays/blob/master/e-paper-displays-low-temperature-PDI033-768x487.png)
  
  * The example code is for PDi iTC EPD(1.54"/2.13"/2.66"/2.71"/2.87"/3.7"/4.2"/4.37"/5.8"/7.4"/9.7"/12") on EXT2 board, it's verified by Arduino M0 Pro.
  * And it sould be able to run on Arduino IDE supported Board, such as Arduino Due or Arduino Uno(Need a level shifter 5V -> 3V for EXT2 board)
